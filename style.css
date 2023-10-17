@@ -51,8 +51,9 @@ button {
   position: relative;
 }
 button:active {
-  color: purple;
-  border: 3px solid;;
+  color: #fff;
+  border: 3px solid;
+  background-color: purple;
 }
 
 @media (max-width: 520px) {
